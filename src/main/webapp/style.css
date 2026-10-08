@@ -1,0 +1,7 @@
+.card-3d-wrap {
+    position: relative;
+    width: 440px;
+    height: 400px; /* This hides the back side */
+    transform-style: preserve-3d;
+    perspective: 800px;
+}
